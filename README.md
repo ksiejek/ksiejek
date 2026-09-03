@@ -1,8 +1,8 @@
 ## Karol Siejek
 
-Mendix developer. I build small local tools for the people who work on Mendix
-applications — testers, developers, and whoever has to answer "what can this
-role actually do?"
+Certified Mendix Expert Developer & Architect. Eight years of enterprise
+low-code — and a habit of building the small tools the work turns out to need,
+for the people who have to answer "what can this role actually do?"
 
 Whatever I build follows the same rules, because it has to run on a company
 machine and pass a security review without exceptions: **no npm dependencies,
